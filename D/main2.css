@@ -1,0 +1,56 @@
+body {
+    background: url(bg.jpg) no-repeat;
+    background-size: cover;
+}
+body h1{
+    background: cyan;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header {
+
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    
+}
+
+.footer {
+    color: rgb(235, 105, 72);
+    background-color: aliceblue;
+    background-width: 100% ;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 1px;
+    float: bottom;
+
+}
+
+.postlogo img {
+    background-size: contain;
+    margin-left: 1000px;
+    display: flex;
+    flex-direction: row;
+
+    
+
+
+}
+
+
+.postbtn {
+    background-color: rgba(132, 236, 129, 0.486);
+    border: 0in;
+    border-radius: 5px;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    
+
+
+
+}

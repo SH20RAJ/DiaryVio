@@ -1,0 +1,16 @@
+body{
+    color: hotpink;
+}
+.title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+
+body .h2{
+    color: aqua;
+}
+.post{
+    border: 5px;
+    background-color: brown;
+    width: 30%;
+}
